@@ -1,2 +1,0 @@
-result = [TextNode(This is text with a link , text, None), TextNode(to boot dev, links, https://www.boot.dev), TextNode( and , text, None), TextNode(to youtube, links, https://www.youtube.com/@bootdotdev)]
-expected = [TextNode(This is text with a link , text, None), TextNode(to boot dev, links, https://www.boot.dev), TextNode( and , text, None), TextNode(to youtube, links, https://www.youtube.com/@bootdotdev)]

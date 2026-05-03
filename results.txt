@@ -1,2 +1,0 @@
-<div><p>This is a paragraph with an <img src="https://example.com/image.png" alt="image"></img>.</p></div>
-<div><p>This is a paragraph with an <img src="https://example.com/image.png" alt="image"></img>.</p></div>

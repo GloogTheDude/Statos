@@ -8,8 +8,8 @@ from gencontent import *
 public = "./public"
 static = "./static"
 
-clear_dir(public)
-copy_dir(static,public)
+#clear_dir(public)
+copy_dir(static,"./docs")
 from_path="content/index.md"
 template_path="template.html"
 dest_path ="public/index.html"
